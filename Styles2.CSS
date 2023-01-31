@@ -1,0 +1,12 @@
+span{
+    display: inline-block;
+    margin: 30px;
+    padding: 30px;
+    border: 1px dashed rgb(55, 0, 255);
+}
+div{
+    display: inline-block;
+    margin: 30px;
+    padding: 30px;
+    border: 1px dashed rgb(232, 103, 255);
+}
