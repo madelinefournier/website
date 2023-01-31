@@ -1,0 +1,80 @@
+  h1{
+    text-align: center;
+    border: solid black;
+    font-size: 45px;
+    background-color:  rgb(212, 181, 186);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+  
+  /* Background colour*/
+  body {
+    background-color:papayawhip;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+
+/* Add a black background color to the top navigation bar */
+.topnav {
+    overflow: hidden;
+    background-color: rgb(201, 177, 145);
+    border: solid black;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+  
+  /* Style the links inside the navigation bar */
+  .topnav a {
+    float: left;
+    display: block;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 22px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+  
+  /* Change the color of links on hover */
+  .topnav a:hover {
+    background-color: rgb(77, 160, 237);
+    color: rgb(231, 49, 186);
+  }
+  
+ 
+  
+  /* Style the search box inside the navigation bar */
+  .topnav input[type=text] {
+    float: right;
+    padding: 6px;
+    border: none;
+    margin-top: 8px;
+    margin-right: 16px;
+    font-size: 22px;
+    background-color: rgb(255, 255, 255);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+
+  a {
+    text-decoration: none;
+    display: inline-block;
+    padding: 8px 16px;
+  }
+  
+  a:hover {
+    background-color:rgb(231, 49, 186);
+    color: black;
+  }
+  
+  .previous {
+    background-color: papayawhip;
+    color: black;
+    border: solid black;
+  }
+  
+  .next {
+    background-color:rgb(201, 177, 145);
+    color: white;
+    border: solid black;
+  }
+  
+  .round {
+    border-radius: 50%;
+  }
